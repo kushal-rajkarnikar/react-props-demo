@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.block {
+  border: 3px solid #ddd;
+  margin: 20px;
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+}
